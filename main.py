@@ -5,7 +5,7 @@ def calculate_powers(base, limit):
         print(f"{base}^{i} = {result}")
 
 def main():
-    print("Welcome to Vrisha's Power Calculator! 🔢")
+    print("Welcome to Natasha's Power Calculator! 🔢")
     
     while True:
         try:

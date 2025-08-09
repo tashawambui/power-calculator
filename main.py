@@ -20,7 +20,7 @@ def main():
 
             again = input("\nWould you like to try another number? (yes/no): ").strip().lower()
             if again != 'yes':
-                print("Thanks for using Vrisha's Power Calculator! 😊")
+                print("Thanks for using Natasha's Power Calculator! 😊")
                 break
 
         except ValueError:
